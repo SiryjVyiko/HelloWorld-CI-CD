@@ -6,7 +6,7 @@ var http = require("http"),
     fs = require("fs"),
     os = require("os"),
     staticResource = require("static-resource"),
-    port = 8080,
+    port = 8088,
     serverUrl,
     handler,
     favicon;
